@@ -1,0 +1,234 @@
+     1     77220562     PERALTA VELARDE, MAICKOL FERNANDO                        1716.00
+     2     71072859     COAQUIRA JALIRI, LUIS FERNANDO                           1540.80
+     3     71647755     ISUIZA LARICO, CARLOS OSVALDO                            1536.00
+     4     72220333     MOROCO BUSTINZA, LUCIA DEL CARMEN                        1464.00
+     5     74958357     HANCCO POMA, RUTH AYDI                                   1404.00
+     6     70821453     GALINDO COLLA, ORLANDO NORMAN                            1276.80
+     7     71792950     CANQUI NINA, IAN FRANK                                   1272.00
+     8     74406647     MAMANI HILASACA, LEN KELY                                1248.00
+     9     72292944     CCALLOCSA LOPINTA, FRANKLIN EDGAR                        1240.80
+     10    70353199     APAZA CONDORI, LENNART CARLOS                            1216.80
+     11    72220036     CHATA AGUILAR, MAYDA SOFIA                               1212.00
+     12    72259643     QUISPE VILLANUEVA, MARYCIELO XIOMARA                     1212.00
+     13    74461016     CHOQUE CHOQUE, RUTH JUANA                                1197.60
+     14    75551628     CAJIA CAYLLAHUA, ANTONIA                                 1188.00
+     15    75486134     DIANDERAS PUMA, KAREN GRISEL                             1188.00
+     16    75532040     TITO UGARTE, PEDRO ENRIQUE                               1188.00
+     17    73643643     VILCA COAQUIRA, MARGOTH DAYSI                            1176.00
+     18    75383782     CHIPANA MALDONADO, FRANKLIN                              1171.20
+     19    74385989     CCAMA QUEA, MARY                                         1152.00
+     20    74043071     GUZMAN NINA, LIDIA BRIZAYDA                              1149.60
+     21    77702547     COAPAZA FLORES, CHARMELY                                 1104.00
+     22    74163452     MERMA CONDORI, MERY SOLANGE                              1104.00
+     23    75657350     CAHUAPAZA CHAMBI, YOSHIRO BRANDON LY                     1084.80
+     24    61659751     APAZA CALCINA, YANET LIZBETH                             1068.00
+     25    73827505     IQUISE RAMOS, IVAN SMITH                                 1068.00
+     26    73749352     MAMANI CACHICATARI, ROSAURA                              1068.00
+     27    77699226     AGUILAR SONCCO, GIULIANA GLADYS                          1056.00
+     28    76067151     CHALLCO CHUQUIPURA, SAUL JEFERSON                        1056.00
+     29    61093559     CRESPO ROQUE, KARLA                                      1056.00
+     30    73806830     CRUZ SUCARI, HENRY WILFREDO                              1056.00
+     31    75454018     SANGA HUARACCALLO, RUTH PILAR                            1044.00
+     32    47049083     CACERES HUILLCAÑAHUI, AMERICO RONAL                      1008.00
+     33    62150158     LLANOS ALVARES, JHAIR JHONERS                            1008.00
+     34    46953752     CCALLOHUANCA SUCARI, EDWARD RONALD                        996.00
+     35    74071896     GUTIERREZ HUALLA, EDER LUIS HUMBERTO                      996.00
+     36    70269463     CASTILLO CHILE, POOL ANTHONY                              984.00
+     37    70038240     CHAYÑA SALAS, JHON ANDERSON                               972.00
+     38    71506956     APAZA MAMANI, NOEMI ABIGAIL                               960.00
+     39    73870472     HUAYLLANI HUILLCA, HAID JETLI                             960.00
+     40    75479552     TORRES VILCA, JERSON DAVID                                960.00
+     1     60176052     CCAMA APAZA, MIRIAM EDITH                                1716.00
+     2     71522233     CHATA MAMANI, MARITZA                                    1716.00
+     3     75863789     MOGROVEJO CCOA, JHOHAIDA LIZETH                          1716.00
+     4     71863983     PEREZ CHURA, KELY                                        1716.00
+     5     73652937     RIOS CALCINA, MAGDALENA TRINY                            1716.00
+     6     74685138     ROQUE ZEVALLOS, JELEN YESSENIA                           1716.00
+     7     72161641     SACACA CONDORI, JEFERSON HENRY                           1716.00
+     8     75266098     ZENETENO QUISPE, YESSENIA LIZBETH                        1716.00
+     9     73742920     ROQUE TICONA, YOVANA                                     1536.00
+     10    73273510     CAHUI APAZA, JHEYSON DANGEROUS                           1512.00
+     11    71415714     ALARCON YANQUI, LILIAN DEL ROSARIO                       1500.00
+     12    76747047     HILASACA CRUZ, SOLEDAD MARLENY                           1488.00
+     13    74163652     MAMANI CRUZ, ELIAZAR ALEX                                1452.00
+     14    72392783     OJEDA QUISPE, ANJHELI ADRIANA                            1452.00
+     15    73382268     CHIPANA CHURA, YOHAN SANDRO                              1416.00
+     16    73937552     QUISPE ROQUE, KARIN YUDITH                               1416.00
+     17    70407071     CHOQUE DURAN, CESIA JIMENA                               1404.00
+     18    75876351     GOMEZ HUMPIRI, FRANZ JOSEPHY                             1392.00
+     19    76196819     HUANCO SARAVIA, LUIS FERNANDO                            1368.00
+     20    75349198     QUISPE CHURA, KAREN MALÚ                                 1368.00
+     21    77297613     APAZA HUIRSE, STEFANY MAYUMI                             1344.00
+     22    75783776     BLANCOS MIRANDA, ANGIE DANITZA                           1332.00
+     23    77294983     FLORES MAMANI, DANYS JHON                                1332.00
+     24    74059492     CANCCAPA CHURATA, KATERIN MILUSCA                        1320.00
+     25    75189159     YANQUI YANQUI, GUINA MARIBEL                             1300.80
+     26    73390169     MAMANI LARICO, DAYSI NAJELY                              1296.00
+     27    73498369     QUIRO MAMANI, NEYVA YANINA                               1296.00
+     28    47346231     VENTURA APAZA, FLOR YUDITH                               1296.00
+     29    72577353     CARTAGENA TAPIA, INDIRA MARILIA                          1284.00
+     30    71501025     MACHACA VIZA, MEDANIA DAYBE                              1284.00
+     31    72678826     PERALTA CALSINA, WENDY CAROL                             1284.00
+     32    75878229     QUISPE LAYME, YEFERSON SAIR                              1272.00
+     33    75342065     SOSA VELASQUEZ, JOVINO SEBASTIAN                         1272.00
+     34    76969876     YUCRA LIPA, YENYFER ROSMERY                              1272.00
+     35    46490993     ZEA QUILLA, RAUL RODO                                    1262.40
+     36    71213627     CASTRO MAQUERA, FIORELLA                                 1260.00
+     37    70518063     MAMANI ALVARADO, YENIFER MELANNY                         1260.00
+     38    73773805     QUISPE COA, JOSE LISTHER                                 1260.00
+     39    73236124     AYAMAMANI CHURA, REINA SOLEDAD                           1240.80
+     1     71593535     AHUMADA GÓMEZ, JACK JIMMY                                1716.00
+     2     75993441     ALVAREZ GONZALES, MARIANA LUCERO                         1716.00
+     3     70274068     AVILA CALLA, FRANK JOHN                                  1716.00
+     4     72943969     BENAVENTE CONDORI, JOSE LUIS                             1716.00
+     5     75379198     COILA MAMANI, DAMARIS PAOLA                              1716.00
+     6     72553336     FLORES GOMEZ, KAREN LIZ                                  1716.00
+     7     77325423     HUANCA TICONA, LUIS                                      1716.00
+     8     72005136     LOPE CHUCTAYA, HECTOR YAMIL                              1716.00
+     9     75883967     MAYDANA VILCA, ANGELA ZARELLA                            1716.00
+     10    73647799     PAREDES ARROYO, YOEL EMERSON                             1716.00
+     11    73313314     PELINCO VELASQUEZ, RUBI MILAGROS                         1716.00
+     12    74807695     PERCCA MAMANI, JHONATAN                                  1716.00
+     13    74939239     TICONA CHATA, DIXON NOEL                                 1716.00
+     14    74575190     TITO COLQUEHUANCA, LUZ MIRIAM                            1716.00
+     15    60234742     YUCRA COAQUIRA, YOSELIN LIZETH                           1716.00
+     1     72577356     LINARES AMACHI, FERNANDO EDSON                           1100.00
+     2     72133092     CARRERA HERENCIA, FIORELLA MILAGROS                      1060.00
+     3     75352839     APAZA YANA, LUIS BRAJHAN                                 1040.00
+     4     75391397     QUISPE CACERES, LIZBETH NELLY                            1020.00
+     5     75580808     TORRES CANAZA, JUDITH JESUSA                             1020.00
+     6     70670310     MAMANI AYQUI, VANESA MATYORY                             1010.00
+     7     74279865     QUISPE COANQUI, BRAHAN HENDO                              980.00
+     8     72880148     VELÁSQUEZ PACO, KATERINE ELIANA                           976.00
+     9     75558840     PEREZ QUISPE, MIRIAN LISBETH                              970.00
+     10    74469658     VELASQUEZ FARFAN, JUAN CARLOS                             970.00
+     11    75006438     VILCA LUQUE, NAYHELY                                      970.00
+     12    75396278     HUALLPA YUPANQUI, ROCIO MILAGROS                          956.00
+     13    75786442     CONDORI QUISPE, YANELY VERONICA                           950.00
+     14    74084072     MONTESINOS CURASI, GLORIA MILAGROS                        950.00
+     15    73331000     SONCCO CONDORI, JAZMIN SHELEYDI                           950.00
+     16    72904992     CARCAUSTO QUISPE, HEYDI NICOL                             948.00
+     17    73773198     QUICO MAMANI, NOEMI MILAGROS                              940.00
+     18    71025464     ROQUE ALVARADO, WILLIAM EDGAR                             940.00
+     19    73269388     MAMANI SOTA, PAMELA RAQUEL                                920.00
+     20    73121980     SUCASAIRE MAMANI, MARLON BRANDO                           920.00
+     21    73364492     SANCHEZ GALLEGOS, ADRIANA MADITH                          910.00
+     22    75555279     SANTOS ATENCIO, FRANKLIN GUSTAVO                          910.00
+     23    76477512     LUQUE HUANCA, GUINA MARYORY                               908.00
+     24    73760752     ZEA QUISPE, CLAUDIA PATRICIA                              904.00
+     25    70373014     CARPIO QUISPE, PAUL EDUARDO                               900.00
+     26    73714269     GUTIERREZ LAURA, KATIA LUCY                               900.00
+     27    70131610     MAMANI CONDORI, ERIKA GISSELA                             900.00
+     28    75617684     ANCACHI CHURA, MARITZA                                    882.00
+     29    77049843     ARAPA ADCO, MILAGROS                                      880.00
+     30    70182508     VELASQUEZ MACHACA, SUSAN ALONDRA                          872.00
+     31    74405909     GARCIA MIRANDA, MADAI SHACHI SHANTAL                      870.00
+     32    73386872     SALAMANCA CHAMBI, GLIZBETH IRENE                          870.00
+     33    73968890     SALAS PEREZ, JACKELINE FATIMA                             870.00
+     34    70472005     GOZME BELLIDO, LUZ JEYDY                                  866.00
+     35    60178024     QUISPE APAZA, LUZ PILAR                                   860.00
+     36    72233415     QUISPE CORONEL, BELU                                      860.00
+     37    75930014     CONDORI ENCINAS, MELIZA MEDALY                            850.00
+     38    72051613     LIMACHE CCAMA, MIRIAN PAMELA                              850.00
+     39    71568341     MAMANI MAMANI, GEORGINA LISBETH                           850.00
+     40    72362463     MAMANI PONCE, LIZ YESSENIA                                850.00
+     41    74348479     SUCASAIRE SUCASAIRE, YENNY ISABEL                         850.00
+     1     71025488     ARI GOYZUETA, MARIA ANTONIETA                            1430.00
+     2     74165174     PARI CHOQUEHUAITA, MIDALIT BETZABE                       1360.00
+     3     76955062     APAZA TORRES, BRAYAN ABEL                                1290.00
+     4     73546394     MAMANI LARICO, FANY NELIDA                               1240.00
+     5     75876631     RAMOS LASTEROS, MARK ANTHONY                             1230.00
+     6     72853390     TORRES YANA, MIRIAM YESSENIA                             1230.00
+     7     71822371     FLORES CAÑAPATAÑA, YESICA ANALI                          1220.00
+     8     75193245     YANCACHAJLLA JUSTO, MIRIAM                               1174.00
+     9     71132520     APAZA ALARCON, JUMKLAUN FRANKLIN                         1160.00
+     10    76798107     LÓPEZ FUENTES, MAIK DANTON                               1148.00
+     11    76814596     GUTIERRREZ FLORES, LUZ MARIA                             1130.00
+     12    76196825     ESQUIVIAS TORRES, WIDOLSON GERALD                        1110.00
+     13    73250328     HILASACA ARAUJO, GABRIELA ROSSANA                        1110.00
+     14    76651971     MAMANI ITO, LUZ MARIANA                                  1104.00
+     15    76792895     RIVERA CHAPARRO, LENIN DAVID                             1100.00
+     16    74975822     CHOQUE PEÑALOZA, JOEL LENIN                              1080.00
+     17    74641138     MACHACA MAMANI, JEFFERSON                                1050.00
+     18    74836255     ACERO JIMENEZ, LEYDI GIOVANNA                            1040.00
+     19    72072490     SONCCO CHOQUE, KREYSI EVELYN                             1040.00
+     20    77088565     SUCASACA YANQUE, PAULINA                                 1040.00
+     21    74349163     VILCA ARI, TANIA                                         1040.00
+     22    71322968     SACARI NINA, ABIGAIL DEYFELIA                            1030.00
+     23    76197146     TITO PACHARI, JOAQUIN GUSTAVO                            1020.00
+     24    71799405     QUISPE PANDIA, ANALY MILAGROS                            1014.00
+     25    71476967     CALLI GONGORA, ANDREA ADALIA                             1010.00
+     26    72189737     VALDIVIA CHAMBI, MILAGROS FLOR DE JOSÉ                   1002.00
+     27    75387444     POMA AQUINO, DANTE ALFREDO                               1000.00
+     28    74753434     CCAMA CHINO, NELSON JAVIER                                990.00
+     29    73963942     PACOHUANACO MAMANI, NAYELY LUCERO                         990.00
+     30    70864503     QUISPE PARI, PAMELA GISELL                                990.00
+     31    76125968     BEDOYA MAMANI, NIDIAN LORENA                              980.00
+     32    74702375     AROHUATA VILCA, HENRY JESÚS                               970.00
+     33    72138864     CHAMBI LUQUE, EYMAR RICARDO                               970.00
+     34    76157397     TITO QUISPE, EDDY SANTIAGO                                968.00
+     1     70939467     TITO AGUIRRE, DDAPNE BISBANI                             1084.80
+     2     74835875     CACERES LANCHIPA, CRISTIN                                1080.00
+     3     76016065     MULLISACA CHIRINOS, DALTON LEITO                          984.00
+     4     76055880     VALENZUELA DIAZ, JURGEN ANDRE                             936.00
+     5     48351843     CCORI ALANOCA, YECICA SOLEDAD                             842.40
+     6     73368039     TAZA ALVAREZ, BEATRIZ                                     828.00
+     1     70893678     CHAMBI RIVERA, SHEYLA  ALISON                            1190.00
+     2     60296253     CALLE CHIPANA, MAGDIEL MAYGRITH                          1160.00
+     3     72005155     BRAVO HUANCA, LUIS MIGUEL                                1154.00
+     4     76974339     RAMOS GUTIERREZ, CARLA GRETA                             1150.00
+     5     76766624     CALIZAYA COLQUE, JOSUE ASBEL                             1140.00
+     6     72479254     QUISPE CHAMBILLA, JAEL RODRIGO                           1090.00
+     7     71372225     CAMPOS CONDORI, JUAN JAVIER                              1060.00
+     8     73276567     MAMANI ESPIRILLA, HAROL ANGEL                            1060.00
+     9     77345775     LIMACHE TUNQUIPA, KLEDY KORAIMA                          1050.00
+     10    72671760     MONTESINOS ARENAS, MICHAEL EDWIN                         1040.00
+     11    74821310     QUISPE CRUZ, MARIA ESMERALDA                             1030.00
+     12    76447440     LLAJAMANGO RAMOS, CARLOS ANDREE                          1020.00
+     13    75438946     FLORES SOLORZANO, KHAKLIR LUIGHI                         1000.00
+     14    75312567     GONZA MAMANI, YORDAN ANTONY                               978.00
+     15    72732649     PALOMINO IBEROS, FERNANDO FELIX                           970.00
+     16    73444977     URURI CALCINA, SOLEDAD AURORA                             970.00
+     17    74348737     ZAMBRANO QUISPE, BELEN ABIGAIL                            970.00
+     18    73261220     CATUNTA FLORES, ISMAEL                                    960.00
+     19    74209089     CRUZ CALIZAYA, JOSE LUIS                                  960.00
+     20    72426271     MIRANDA CALLATA, MILAGROS DANIELA                         960.00
+     21    71494699     PARILLO CHOQUETICO, ANYELA STEFANY                        960.00
+     22    73264834     HUARACHA CANAZA, MARIA FERNANDA                           950.00
+     23    72978625     SOSA VARGAS, YUBER YEFERSON                               950.00
+     24    72948435     CHURA PILCO, DIANA ANDREA                                 944.00
+     25    71868547     CACMA ZAPANA, CENAIDA                                     940.00
+     26    76850583     GIVERA LERMA, YENIFER KARINA                              940.00
+     27    75348771     QUISPE TICONA, FERNANDO DAVID                             940.00
+     28    70990843     CHAVEZ CAMACHO, NICOLE ANDREA                             930.00
+     29    75449097     VICTORIO CHOQUE, FLOR SOLEDAD                             930.00
+     30    74309402     MENDOZA QUISPE, NIEVES CONCEPCIÓN                         928.00
+     31    77378214     ARIZACA NUÑEZ, BIANCA ESMERALDA                           920.00
+     32    73884147     COAQUIRA CARLOSVIZA, FREDDY MIGUEL                        920.00
+     33    75166240     HUALLA COAQUIRA, DEYSI MELANY                             920.00
+     34    75218825     RAMOS AGUILAR, ESTEFANI PATRICIA                          920.00
+     35    74485427     SURCO AROCUTIPA, LISETH NAYELY                            920.00
+     36    73653047     TISNADO VELAZCO, ANDREA DEL ROCIO                         920.00
+     37    76812738     URBINA QUISPE, MIRIAM VANESSA                             912.00
+     38    75539279     YANA YANA, MARIBEL                                        912.00
+     39    76203486     CHIQUE CHIPANA, NOHEMI IVONE                              910.00
+     40    76926790     COILA HUMPIRI, IVANLUIS JEREMY                            906.00
+     41    70296500     CHAMBI OCHOCHOQUE, AIDA EVELYN                            900.00
+     42    75848052     TICONA GARATE, MARI CIELO                                 900.00
+     43    75385387     JIMENEZ MARON, LESLY GUADALUPE                            890.00
+     44    60417264     PACOVILCA CHAMBILLA, YAQUELIN YASMIN                      890.00
+     45    73070461     RAMOS RAMOS, MIJHAIL BRANDON                              884.00
+     46    74055728     PAREDES HUISA, DEYSI LIZETH                               864.00
+     47    75433301     VILCA BARRANTES, GUIDO CRISTIAN                           856.00
+     48    75758841     CCANCCAPA APARICIO, MARIA LUCERO                          850.00
+     49    76936315     ESPERILLA RAMIREZ, MIGUEL DAVID                           850.00
+     50    75755370     MIRANDA CHAMBI, NAYELI IBETT                              850.00
+     51    71822397     MULLISACA RAMOS, DAFNE ALEXANDRA                          850.00
+     1     73649517     PALACO CARBAJAL, LUZ MILAGROS                            1030.00
+     2     74561664     QUISPE BARRIALES, ESTEFANIA NINFA                         984.00
+     3     74085291     MARROQUIN PICHILINGUE, LEANDRO PAUL                       950.00
+     4     70407060     MORALES CENTENO, DIOSELIN YASMIN                          940.00
+     5     72572551     QUISPE HUARACHI, NATALY HEIDI                             874.00
+     6     70446011     HERRERA VASQUEZ, YAMELY AYMEE                             860.00
+     7     72941597     ISIDRO MEDINA, BRYAN YONATAN                              830.00
+     8     76700010     CUELLO MOLLOHUANCA, CRISTHIAN SHAMONE                     800.00
